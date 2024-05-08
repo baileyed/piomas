@@ -174,12 +174,6 @@ def process_piomas(year, leap_year=False):
 
                                                 return(ds_month)"""
         
-        ds.attrs['python author'] = """Robbie Mallett wrote this python code. If there's a problem with it, 
-                                        email him at robbie.mallett.17@ucl.ac.uk"""
-                                
-        
-        
-
         # output_dir = f'output/'
         # output_dir = 'E:/PIOMAS/processed/'
         output_dir = 'E:/PIOMAS/processed/daily_velocity/v/'
